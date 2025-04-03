@@ -1,6 +1,10 @@
 # LSIP: Deep learning powered landslide source area identification pipeline
+
 ## Methodology
-### Landslide identification
+
+The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
+
+    const name = "Jowie"
 ***
 Input: pre- and post-event image
 
