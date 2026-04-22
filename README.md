@@ -14,3 +14,4 @@ Fig. 1. Framework of landslide source area identification pipeline.
 Fig. 2. Structure of the deep learning model for landslide and source area identification.
 ***
 Note: Due to copyright reasons, satellite imagery cannot be provided; therefore, only the source area identification code is provided.
+Matlab 2021b is used. Some necessary tools need to be installed mannully.
