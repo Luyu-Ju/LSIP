@@ -15,3 +15,5 @@ Fig. 2. Structure of the deep learning model for landslide and source area ident
 ***
 Note: Due to copyright reasons, satellite imagery cannot be provided; therefore, only the source area identification code is provided.
 Matlab 2021b is used. Some necessary tools need to be installed mannully.
+
+Reference: Ju, L.Y., Zhao, Z.N., Xiao, S.H., Pang, Y.E., He, J., Lv, Y., Jiang, R.C., He, X., & Zhang, L.M. (2026). DeepLrn-Source: Deep learning powered landslide source identification. Engineering Geology, 108748. https://doi.org/10.1016/j.enggeo.2026.108748
